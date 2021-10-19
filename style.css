@@ -1,0 +1,18 @@
+main.container{height: 100vh;}
+
+@media (max-width: 767.98px) {
+main.container{height: auto; padding-top: 10vh; padding-bottom: 10vh;}
+}
+
+a {
+    color: #791111;
+    font-size: large;
+    font-weight: bold;
+}
+a:hover {
+    color: #d12c42;
+    text-transform: capitalize;
+}
+
+footer a{color: #791111;}
+footer a:hover{color: #c71f35;}
